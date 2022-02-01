@@ -3,7 +3,7 @@
 ## Test minting NFTs `./nft`
 
 ### Requirements 
-[Infura](https://infura.io/) - infura is used as our JSON rpc to interact with the Ethereum BlockChain.
+[Infura](https://infura.io/) - Infura used as JSON RPC to interact with the ethereum blockchain and network (essentially a service provider)
 
 - Grab the ABI (spec for a contract) via `fetch_abi.py` e.g
 
